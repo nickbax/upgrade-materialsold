@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d0394705.chunk.css",
+    "main.js": "./static/js/main.1ef6cba6.chunk.js",
+    "main.js.map": "./static/js/main.1ef6cba6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.9f04be44.js",
+    "runtime-main.js.map": "./static/js/runtime-main.9f04be44.js.map",
+    "static/css/2.86fb7945.chunk.css": "./static/css/2.86fb7945.chunk.css",
+    "static/js/2.d2db50ee.chunk.js": "./static/js/2.d2db50ee.chunk.js",
+    "static/js/2.d2db50ee.chunk.js.map": "./static/js/2.d2db50ee.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.83c02e816979c6dfb560ae86a40885ac.js": "./precache-manifest.83c02e816979c6dfb560ae86a40885ac.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.86fb7945.chunk.css.map": "./static/css/2.86fb7945.chunk.css.map",
+    "static/css/main.d0394705.chunk.css.map": "./static/css/main.d0394705.chunk.css.map",
+    "static/js/2.d2db50ee.chunk.js.LICENSE.txt": "./static/js/2.d2db50ee.chunk.js.LICENSE.txt",
+    "static/js/main.1ef6cba6.chunk.js.LICENSE.txt": "./static/js/main.1ef6cba6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/YatraOne-Regular.6353ee96.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f04be44.js",
+    "static/css/2.86fb7945.chunk.css",
+    "static/js/2.d2db50ee.chunk.js",
+    "static/css/main.d0394705.chunk.css",
+    "static/js/main.1ef6cba6.chunk.js"
+  ]
+}
